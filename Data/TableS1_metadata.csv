@@ -1,0 +1,43 @@
+﻿Table S1.,Database for meta-analysis. 
+,
+Column header,Description
+id ,unique number for each record
+pub ,publication citation
+doi,publication doi
+exp_location ,"locaiton of experiment, greenhouse (gh) or field"
+lat,latitude of soil collection site
+long,longitude of soil collection site
+unique_exp,experiment identifier for whole database 
+exp ,experiment identifier within publication (each species within a publication is a unique experiment)
+trial ,trial identifier within 'exp' (each different soil treatment for one species is a unique trial) 
+type ,type of environmental gradient (competition or stress-disturbance)
+feedback_manip,plant soil feedback treatment
+type_manip,environmental gradient treatment (what type of competition or what type of stress-disturbance was measured)
+conditioning_phase_source,"before soil inoculation into experiemnt, how conditioning phase was conducted"
+inoculum-source,where soil inoculum came from
+feedback_duration,length of feedback response phase (weeks)
+focal_family,family of focal plant
+focal_sp,species of focal plant
+focal_func ,functional group of focal species
+focal_anatomical group,"monocot, dicot, gymnosperm"
+focal_life_cycle,"perennial, annual, biennial"
+growth_response,type of growth trait measured
+N,replication number used in analysis
+nCnF,mean growth under no competition/stress/disturbance & no PSF treatment (sterile soil/home soil/fungicide-treated soil)
+nCnF_sd,standard deviation of growth under no competition/stress/disturbance & no PSF treatment
+yCnF,mean growth under competition/stress/disturbance & no PSF treatment 
+yCnF_sd,standard deviation of growth under competition/stress/disturbance & no PSF treatment
+nCyF,mean growth under no competition/stress/disturbance & PSF treatment (live soil/away soil/non-fungicide treated soil)
+nCyF_sd,standard deviation of growth under no competition/stress/disturbance & PSF treatment
+yCyF,mean growth under competition/stress/disturbance & PSF treatment 
+yCyF_sd,standard deviation of growth under competition/stress/disturbance & PSF treatment
+vi_nCnF,variance of growth under no competition/stress/disturbance & no PSF treatment
+vi_yCnF,variance of growth under competition/stress/disturbance & no PSF treatment
+vi_nCyF,variance of growth under no competition/stress/disturbance & PSF treatment
+vi_yCyF,variance of growth under competition/stress/disturbance & PSF treatment
+RII_CSD,relative interaction intensity of competition/stress/disturbance treatment (main effect): (yCnF - nCnF)/(yCnF + nCnF)
+RII_CSD_Vi,pooled variance of competition/stress/disturbance (vi_nCnF + vi_yCnF)
+RII_PSF,relative interaction intensity of PSF (main effect): (nCyF - nCnF)/(nCyF + nCnF)
+RII_PSF_Vi,pooled variance of PSF (vi_nCnF + vi_nCyF)
+RII_Int,relative interaction intensity of PSF x competition/stress/disturbance (combined effect): ((yCyF - yCnF)/(yCyF + yCnF)) - ((nCyF - nCnF)/(nCyF + nCnF))
+RII_Int_Vi,pooled variance of competition/stress/disturbance and PSF (vi_nCnF + vi_yCnF + vi_nCyF + vi_yCyF)
