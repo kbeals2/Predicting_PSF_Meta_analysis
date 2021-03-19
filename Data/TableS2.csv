@@ -1,0 +1,278 @@
+﻿Type of effect,,Effect size estimates are:,,,,,Replication,,Effect size estimates,,,,Test of study heterogeneity,,,Test of coefficients,,,,
+,,,Competition ,Stress,Disturbance,PSF,number of independent experiments,number of publications,mean,lower ci,upper ci,p,QE,Q df,Q p,QM,Q df,Q p,Chi sq,p
+INDIVIDUAL EFFECTS,PSF,overall,NA,NA,NA,across all manipulations,300,76,-0.0138,-0.0387,0.0111,0.2783,2043.1705,822,< 0.0001,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,NA,NA,NA,untreated/fungicide,47,7,-0.0015,-0.074,0.0709,0.9669,1924.1306,820,< 0.0001,28.4399,2,< 0.0001,-,-
+,,by treatment manipulations,NA,NA,NA,live/sterile,141,33,-0.0784,-0.1132,-0.0437,< 0.0001,1924.1306,820,< 0.0001,28.4399,2,< 0.0001,-,-
+,,by treatment manipulations,NA,NA,NA,away/home,186,44,0.0154,-0.0123,0.0432,0.2761,1924.1306,820,< 0.0001,28.4399,2,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,forb,NA,NA,NA,across all manipulations,145,41,-0.0145,-0.0507,0.0218,0.4334,1888.7669,819,< 0.0001,1.5671,3,0.8147,-,-
+,,grass,NA,NA,NA,across all manipulations,112,46,-0.019,-0.0624,0.0244,0.3911,1888.7669,819,< 0.0001,1.5671,3,0.8147,-,-
+,,shrub,NA,NA,NA,across all manipulations,15,12,-0.0213,-0.1213,0.0786,0.6757,1888.7669,819,< 0.0001,1.5671,3,0.8147,-,-
+,,tree,NA,NA,NA,across all manipulations,27,10,0.0075,-0.0641,0.0792,0.8364,1888.7669,819,< 0.0001,1.5671,3,0.8147,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment,NA,NA,NA,across all manipulations,29,7,0.0493,-0.0266,0.1251,0.2031,2043.0643,821,< 0.0001,4.1551,1,0.1252,-,-
+,,gh experiment,NA,NA,NA,across all manipulations,270,68,-0.0174,-0.0426,0.0077,0.1747,2043.0643,821,< 0.0001,4.1551,1,0.1252,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment,NA,NA,NA,away/home,12,4,-0.0261,-0.1244,0.0723,0.6033,1089.5766,438,< 0.0001,0.2738,2,0.8721,-,-
+,,gh experiment,NA,NA,NA,away/home,174,40,-0.0014,-0.0239,0.0212,0.906,1089.5766,438,< 0.0001,0.2738,2,0.8721,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment,NA,NA,NA,untreated/fungicide,17,3,0.0756,-0.0897,0.2409,0.3702,107.4028,51,< 0.0001,2.8511,2,0.2404,-,-
+,,gh experiment,NA,NA,NA,untreated/fungicide,30,4,-0.0981,-0.2363,0.04,0.1638,107.4028,51,< 0.0001,2.8511,2,0.2404,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,NA,NA,NA,across all manipulations,197,53,-0.0639,-0.095,-0.0328,< 0.0001,1966.9627,821,< 0.0001,34.9493,1,< 0.0001,-,-
+,,conditioned in gh,NA,NA,NA,across all manipulations,102,22,0.0444,0.0119,0.0769,0.0075,19966.9627,821,< 0.0001,34.9493,1,< 0.0001,,
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,NA,NA,NA,live/sterile,123,28,-0.0739,-0.1409,-0.0069,0.0306,713.6491,328,< 0.0001,4.6923,1,0.0957,-,-
+,,conditioned in gh,NA,NA,NA,live/sterile,18,5,-0.0443,-0.148,0.0595,0.4029,713.6491,328,< 0.0001,4.6923,1,0.0957,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,NA,NA,NA,away/home,96,25,-0.0234,-0.059,0.0122,0.1981,1073.4515,438,< 0.0001,2.3321,1,0.3116,-,-
+,,conditioned in gh,NA,NA,NA,away/home,90,19,0.0093,-0.0178,0.0363,0.5018,1073.4515,438,< 0.0001,2.3321,1,0.3116,-,-
+,,,,,,,,,,,,,,,,,,,,
+,COMPETITION,overall,across all manipulations,NA,NA,NA,199,43,-0.1373,-0.1835,-0.091,< 0.0001,1745.445,568,< 0.0001,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,alone/together,NA,NA,NA,87,21,-0.2952,-0.3572,-0.2333,< 0.0001,1650.1175,567,< 0.0001,88.0753,1,< 0.0001,-,-
+,,by treatment manipulations,inter/intra,NA,NA,NA,116,24,-0.0451,-0.096,0.0057,0.0818,1650.1175,567,< 0.0001,88.0753,1,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,forb,across all manipulations,NA,NA,across all manipulations,107,26,-0.1361,-0.2004,-0.0719,< 0.0001,1741.268,565,< 0.0001,33.9013,3,< 0.0001,-,-
+,,grass,across all manipulations,NA,NA,across all manipulations,78,31,-0.1474,-0.2237,-0.0712,< 0.0001,1741.268,565,< 0.0001,33.9013,3,< 0.0001,-,-
+,,shrub,across all manipulations,NA,NA,across all manipulations,8,6,-0.149,-0.3511,0.0531,0.1438,1741.268,565,< 0.0001,33.9013,3,< 0.0001,-,-
+,,tree,across all manipulations,NA,NA,across all manipulations,6,3,-0.0512,-0.2797,0.1772,0.6604,1741.268,565,< 0.0001,33.9013,3,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment,across all manipulations,NA,NA,NA,26,6,-0.5028,-0.6156,-0.3901,< 0.0001,1672.7825,567,< 0.0001,83.3606,2,< 0.0001,-,-
+,,gh experiment,across all manipulations,NA,NA,NA,173,37,-0.0919,-0.1389,-0.045,< 0.0001,1672.7825,567,< 0.0001,83.3606,2,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment,alone/together,NA,NA,NA,24,5,-0.5204,-0.6332,-0.4077,< 0.0001,253.2903,154,< 0.0001,96.4898,2,< 0.0001,-,-
+,,gh experiment,alone/together,NA,NA,NA,63,16,-0.1899,-0.2622,-0.1176,< 0.0001,253.2903,154,< 0.0001,96.4898,2,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,across all manipulations,NA,NA,NA,130,29,-0.1144,-0.1666,-0.0622,< 0.0001,1740.9547,567,< 0.0001,37.0724,1,< 0.0001,-,-
+,,conditioned in gh,across all manipulations,NA,NA,NA,69,14,-0.1674,-0.2228,-0.112,< 0.0001,1740.9547,567,< 0.0001,37.0724,1,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,alone/together,NA,NA,across all manipulations,58,14,-0.2854,-0.3617,-0.2092,< 0.0001,287.6185,154,< 0.0001,66.881,1,< 0.0001,-,-
+,,conditioned in gh,alone/together,NA,NA,across all manipulations,29,7,-0.2597,-0.3513,-0.1681,< 0.0001,287.6185,154,< 0.0001,66.881,1,< 0.0001,-,-
+,,conditioned in field,inter/intra,NA,NA,across all manipulations,72,15,-0.0199,-0.0839,0.0442,0.5435,1321.5274,411,< 0.0001,12.8134,1,0.0017,-,-
+,,conditioned in gh,inter/intra,NA,NA,across all manipulations,44,9,-0.107,-0.1706,-0.0435,0.001,1321.5276,411,< 0.0001,12.8134,1,0.0017,-,-
+,,,,,,,,,,,,,,,,,,,,
+,STRESS,overall,NA,across all manipulations,NA,NA,95,34,-0.0416,-0.1108,0.0276,0.2181,885.4923,238,< 0.0001,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,NA,drought,NA,NA,11,7,-0.2594,-0.3918,-0.1271,0.0001,426.2833,233,< 0.0001,94.9473,5,< 0.0001,-,-
+,,by treatment manipulations,NA,fertilization,NA,NA,41,18,0.1218,0.0561,0.1875,0.0003,426.2833,233,< 0.0001,94.9473,5,< 0.0001,-,-
+,,by treatment manipulations,NA,grazing/herbivory,NA,NA,12,4,0.0466,-0.0764,0.1697,0.4577,426.2833,233,< 0.0001,94.9473,5,< 0.0001,-,-
+,,by treatment manipulations,NA,shade,NA,NA,17,4,-0.3987,-0.5009,-0.2965,< 0.0001,426.2833,233,< 0.0001,94.9473,5,< 0.0001,-,-
+,,by treatment manipulations,NA,mining,NA,NA,3,2,0.2446,-0.0648,0.554,0.1181,426.2833,233,< 0.0001,94.9473,5,< 0.0001,-,-
+,,by treatment manipulations,NA,temperature,NA,NA,12,2,0.0057,-0.1169,0.1283,0.9438,426.2833,233,< 0.0001,94.9473,5,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,forb,NA,across all manipulations,NA,NA,38,17,0.0225,-0.0781,0.123,0.6615,777.9612,235,< 0.0001,17.3826,3,0.0016,-,-
+,,grass,NA,across all manipulations,NA,NA,34,18,0.0657,-0.0513,0.1827,0.271,777.9612,235,< 0.0001,17.3826,3,0.0016,-,-
+,,shrub,NA,across all manipulations,NA,NA,7,6,-0.157,-0.378,0.0641,0.164,777.9612,235,< 0.0001,17.3826,3,0.0016,-,-
+,,tree,NA,across all manipulations,NA,NA,16,6,-0.2576,-0.3923,-0.1229,0.0002,777.9612,235,< 0.0001,17.3826,3,0.0016,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment,NA,grazing/herbivory,NA,NA,3,1,-0.0448,-0.1693,0.0797,0.4807,49.897,38,0.0937,37.5185,1,< 0.0001,-,-
+,,gh experiment,NA,grazing/herbivory,NA,NA,9,3,0.1942,0.1317,0.2568,< 0.0001,49.897,38,0.0937,37.5185,1,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,NA,across all manipulations,NA,NA,62,26,-0.0294,-0.116,0.0572,0.5053,884.9997,237,< 0.0001,1.5793,1,0.454,-,-
+,,conditioned in gh,NA,across all manipulations,NA,NA,33,8,-0.0622,-0.1743,0.0499,0.2767,884.9997,237,< 0.0001,1.5793,1,0.454,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,NA,fertilization,NA,NA,30,15,0.1547,0.0874,0.2219,< 0.0001,129.033,112,0.1294,23.1548,1,< 0.0001,-,-
+,,conditioned in gh,NA,fertilization,NA,NA,11,3,0.0789,-0.0131,0.1709,0.0928,129.033,112,0.1294,23.1548,1,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,NA,shade,NA,NA,11,3,-0.4009,-0.5823,-0.2195,< 0.0001,134.3409,52,< 0.0001,26.5349,1,< 0.0001,-,-
+,,conditioned in gh,NA,shade,NA,NA,6,1,-0.3975,-0.6771,-0.1179,0.0053,134.3409,52,< 0.0001,26.5349,1,< 0.0001,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field,NA,mining,NA,NA,1,1,0.4992,-0.2388,1.2373,0.1849,6.0721,3,0.1082,2.2901,1,0.3182,-,-
+,,conditioned in gh,NA,mining,NA,NA,2,1,-0.0008,-0.7407,0.7391,0.9983,6.0721,3,0.1082,2.2901,1,0.3182,-,-
+,,,,,,,,,,,,,,,,,,,,
+,DISTURBANCE,overall,NA,NA,across all manipulations,NA,5,2,-0.0057,-0.1651,0.1537,0.9443,18.7089,13,0.1324,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,NA,NA,fire,NA,2,1,-0.2385,-0.6135,0.1365,0.2125,14.4775,12,0.2713,1.8647,1,0.3936,-,-
+,,by treatment manipulations,NA,NA,tornado,NA,3,1,0.0432,-0.1088,0.1953,0.5773,14.4775,12,0.2713,1.8647,1,0.3936,-,-
+,,,,,,,,,,,,,,,,,,,,
+DIFFERENCE in INDIVIDUAL EFFECTS,PSF,by treatment manipulations,NA,NA,NA,fungicide:live/sterile,-,-,-,-,-,-,-,-,-,-,-,-,3.9667,0.04641
+,,by treatment manipulations,NA,NA,NA,fungicide:away/home,-,-,-,-,-,-,-,-,-,-,-,-,0.1991,0.6554
+,,by treatment manipulations,NA,NA,NA,live/sterile:away/home,-,-,-,-,-,-,-,-,-,-,-,-,26.837,< 0.0001
+,,,,,,,,,,,,,,,,,,,,
+,,forb:grass,across all manipulations,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.0245,0.8755
+,,forb:shrub,across all manipulations,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.016,0.8994
+,,forb:tree,across all manipulations,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.2893,0.5907
+,,grass:shrub,across all manipulations,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.0018,0.9665
+,,grass:tree,across all manipulations,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.3859,0.5344
+,,shrub:tree,across all manipulations,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.2119,0.6452
+,,,,,,,,,,,,,,,,,,,,
+,,field exp:gh exp,NA,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,2.9729,0.08467
+,,,,,,,,,,,,,,,,,,,,
+,,field exp:gh exp,NA,NA,NA,away/home,-,-,-,-,-,-,-,-,-,-,-,-,0.2422,0.6226
+,,,,,,,,,,,,,,,,,,,,
+,,field exp:gh exp,NA,NA,NA,untreated/fungicide,-,-,-,-,-,-,-,-,-,-,-,-,2.605,0.1065
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field:conditioned in gh,NA,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,33.919,< 0.0001
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field:conditioned in gh,NA,NA,NA,live/sterile,-,-,-,-,-,-,-,-,-,-,-,-,0.3143,0.5751
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field:conditioned in gh,NA,NA,NA,away/home,-,-,-,-,-,-,-,-,-,-,-,-,2.2981,0.1295
+,,,,,,,,,,,,,,,,,,,,
+,COMPETITION,by treatment manipulations,alone/together:inter/intra,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,51.784,< 0.0001
+,,,,,,,,,,,,,,,,,,,,
+,,forb:grass,across all manipulations,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.0494,0.8242
+,,forb:shrub,across all manipulations,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.0142,0.9051
+,,forb:tree,across all manipulations,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.492,0.483
+,,grass:shrub,across all manipulations,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,< 0.0001,0.9884
+,,grass:tree,across all manipulations,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.6134,0.4335
+,,shrub:tree,across all manipulations,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.3952,0.5296
+,,,,,,,,,,,,,,,,,,,,
+,,field exp: gh exp,across all manipulations,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,48.214,< 0.0001
+,,,,,,,,,,,,,,,,,,,,
+,,field exp: gh exp,alone/together,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,27.127,< 0.0001
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field:conditioned in gh,across all manipulations,NA,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,3.8839,0.04875
+,,by treatment manipulations,alone/together,NA,NA,conditioned in field:conditioned in gh,-,-,-,-,-,-,-,-,-,-,-,-,0.2484,0.6182
+,,by treatment manipulations,inter/intra,NA,NA,conditioned in field:conditioned in gh,-,-,-,-,-,-,-,-,-,-,-,-,7.7502,0.005371
+,,,,,,,,,,,,,,,,,,,,
+,STRESS,by treatment manipulations,NA,drought:fertilization,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,29.646,< 0.0001
+,,by treatment manipulations,NA,drought:grazing/herbivory,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,11.632,0.0006482
+,,by treatment manipulations,NA,drought:shade,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,2.6643,0.20126
+,,by treatment manipulations,NA,drought:mining,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,8.6171,0.00333
+,,by treatment manipulations,NA,drought:temperature,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,9.2431,0.002364
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,NA,fertilization:grazing/herbivory,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,1.2282,0.2678
+,,by treatment manipulations,NA,fertilization:light,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,70.512,< 0.0001
+,,by treatment manipulations,NA,fertilization:mining,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.5791,0.4467
+,,by treatment manipulations,NA,fertilization:temperature,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,3.1292,0.0769
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,NA,grazing/herbivory:light,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,29.769,< 0.0001
+,,by treatment manipulations,NA,grazing/herbivory:mining,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,1.3579,0.2439
+,,by treatment manipulations,NA,grazing/herbivory:temperature,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.2183,0.6404
+,,,,,,,-,-,-,-,-,-,-,-,-,,,,,
+,,by treatment manipulations,NA,light:mining,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,14.972,< 0.0001
+,,by treatment manipulations,NA,light:temperature,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,24.659,< 0.0001
+,,,,,,,-,-,-,-,-,-,-,-,-,,,,,
+,,by treatment manipulations,NA,mining:temperature,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,1.98,0.1594
+,,,,,,,,,,,,,,,,,,,,
+,,forb:grass,NA,across all manipulations,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.3019,0.5827
+,,forb:shrub,NA,across all manipulations,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,2.0972,0.1476
+,,forb:tree,NA,across all manipulations,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,10.66,0.001095
+,,grass:shrub,NA,across all manipulations,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,3.0451,0.08098
+,,grass:tree,NA,across all manipulations,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,12.61,0.0003837
+,,shrub:tree,NA,across all manipulations,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.5804,0.4461
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment:gh experiment,NA,grazing/herbivory,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,11.305,0.0007729
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field:conditioned in gh,NA,across all manipulations,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.2126,0.6447
+,,conditioned in field:conditioned in gh,NA,fertilization,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,1.697,0.1927
+,,conditioned in field:conditioned in gh,NA,shade,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,< 0.0001,0.9839
+,,conditioned in field:conditioned in gh,NA,mining,NA,NA,-,-,-,-,-,-,-,-,-,-,-,-,1.6941,0.1931
+,,,,,,,,,,,,,,,,,,,,
+,DISTURBANCE,by treatment manipulations,NA,NA,fire:tornado,NA,-,-,-,-,-,-,-,-,-,-,-,-,1.8624,0.1724
+,,,,,,,,,,,,,,,,,,,,
+INTERACTIVE EFFECT,PSF x COMPETITION ,overall,,,,,199,43,-0.0215,-0.0551,0.0121,0.2102,437.2062,568,1,-,-,-,-,-
+,,by treatment manipulations,alone/together,NA,NA,across all manipulations,87,21,-0.004,-0.0623,0.0543,0.8924,437.1514,567,1,2.095,2,0.3508,-,-
+,,by treatment manipulations,inter/intra,NA,NA,across all manipulations,116,24,-0.0292,-0.0688,0.0104,0.1479,437.1514,567,1,2.095,2,0.3508,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,across all manipulations,NA,NA,untreated/fungicide ,46,6,0.0367,-0.0601,0.1335,0.4577,435.9964,566,1,4.1311,3,0.2476,-,-
+,,by treatment manipulations,across all manipulations,NA,NA,live/sterile,107,20,-0.0034,-0.0614,0.0547,0.9099,435.9964,566,1,4.1311,3,0.2476,-,-
+,,by treatment manipulations,across all manipulations,NA,NA,away/home,121,26,-0.0377,-0.0775,0.0022,0.0642,435.9964,566,1,4.1311,3,0.2476,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,alone/together,NA,NA,untreated/fungicide,20,4,0.0603,-0.0685,0.1891,0.3588,431.3595,563,1,8.2297,6,0.2281,-,-
+,,by treatment manipulations,alone/together,NA,NA,live/sterile,40,8,-0.0518,-0.1408,0.0372,0.254,431.3595,563,1,8.2297,6,0.2281,-,-
+,,by treatment manipulations,alone/together,NA,NA,away/home,40,12,0.0094,-0.0751,0.0938,0.8283,431.3595,563,1,8.2297,6,0.2281,-,-
+,,by treatment manipulations,inter/intra,NA,NA,untreated/fungicide,26,2,0.0037,-0.1432,0.1506,0.9608,431.3595,563,1,8.2297,6,0.2281,-,-
+,,by treatment manipulations,inter/intra,NA,NA,live/sterile,69,13,0.0315,-0.0446,0.1076,0.4168,431.3595,563,1,8.2297,6,0.2281,-,-
+,,by treatment manipulations,inter/intra,NA,NA,away/home,85,16,-0.0469,-0.0908,-0.0031,0.0359,431.3595,563,1,8.2297,6,0.2281,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment,across all manipulations,NA,NA,across all manipulations,26,6,0.0353,-0.0838,0.1543,0.5618,436.34,567,1,2.5188,2,0.2838,-,-
+,,gh experiment,across all manipulations,NA,NA,across all manipulations,173,37,-0.0259,-0.0606,0.0089,0.1448,436.34,567,1,2.5188,2,0.2838,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,overall: conditioned in field,across all manipulations,NA,NA,across all manipulations,130,29,-0.025,-0.0719,0.0219,0.2959,437.1428,567,1,1.6121,2,0.4466,-,-
+,,overall: conditioned in gh,across all manipulations,NA,NA,across all manipulations,69,14,-0.0188,-0.0617,0.0241,0.3902,437.1428,567,1,1.6121,2,0.4466,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,overall: conditioned in field,alone/together,NA,NA,across all manipulations,58,14,-0.0266,-0.0883,0.035,0.3973,79.7541,154,1,1.7864,2,0.4093,-,-
+,,overall: conditioned in gh,alone/together,NA,NA,across all manipulations,29,7,0.0376,-0.035,0.1102,0.3104,79.7541,154,1,1.7864,2,0.4093,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,overall: conditioned in field,inter/intra,NA,NA,across all manipulations,72,15,-0.0252,-0.0892,0.0388,0.4404,355.4233,411,0.9778,1.1779,2,0.5549,-,-
+,,overall: conditioned in gh,inter/intra,NA,NA,across all manipulations,44,9,-0.0237,-0.0758,0.0285,0.3732,355.4233,411,0.9778,1.1779,2,0.5549,-,-
+,,,,,,,,,,,,,,,,,,,,
+,PSF x STRESS ,overall,,,,,95,34,0.0358,0.0031,0.0685,0.032,124.133,238,1,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,NA,drought,NA,across all manipulations,11,7,0.1639,0.0772,0.2507,0.002,112.1292,233,1,19.0641,6,0.0041,-,-
+,,by treatment manipulations,NA,fertilization,NA,across all manipulations,41,18,0.0259,-0.0069,0.0588,0.1219,112.1292,233,1,19.0641,6,0.0041,-,-
+,,by treatment manipulations,NA,grazing/herbivory,NA,across all manipulations,12,4,0.0611,-0.0282,0.1503,0.1798,112.1292,233,1,19.0641,6,0.0041,-,-
+,,by treatment manipulations,NA,shade,NA,across all manipulations,17,4,-0.0176,-0.0884,0.0532,0.626,112.1292,233,1,19.0641,6,0.0041,-,-
+,,by treatment manipulations,NA,mining,NA,across all manipulations,3,2,0.1265,-0.1322,0.3852,0.3378,112.1292,233,1,19.0641,6,0.0041,-,-
+,,by treatment manipulations,NA,temperature,NA,across all manipulations,12,2,0.0013,-0.1191,0.1218,0.9826,112.1292,233,1,19.0641,6,0.0041,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment,NA,grazing/herbivory,NA,across all manipulations,3,1,0.1671,0.0044,0.3299,0.0441,9.2692,38,1,4.1338,2,0.1266,-,-
+,,gh experiment,NA,grazing/herbivory,NA,across all manipulations,9,3,0.0154,-0.0913,0.1222,0.2834,9.2692,38,1,4.1338,2,0.1266,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,overall: conditioned in field,NA,across all manipulations,NA,across all manipulations,62,26,0.0442,0.0036,0.0848,0.0327,123.7686,237,1,4.9166,2,0.0856,-,-
+,,overall: conditioned in gh,NA,across all manipulations,NA,across all manipulations,33,8,0.018,-0.041,0.0769,0.5497,123.7686,237,1,4.9166,2,0.0856,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,overall: conditioned in field,NA,fertilization,NA,across all manipulations,30,15,0.026,-0.0284,0.0805,0.3482,58.1756,112,1,1.5637,2,0.4575,-,-
+,,overall: conditioned in gh,NA,fertilization,NA,across all manipulations,11,3,0.0267,-0.0366,0.0901,0.8269,58.1756,112,1,1.5637,2,0.4575,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,overall: conditioned in field,NA,shade,NA,across all manipulations,11,3,-0.0019,-0.0795,0.0757,0.9619,18.5573,52,1,1.87,2,0.5524,-,-
+,,overall: conditioned in gh,NA,shade,NA,across all manipulations,6,1,-0.0965,-0.2703,0.0773,0.2764,18.5573,52,1,1.87,2,0.5524,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,overall: conditioned in field,NA,mining,NA,across all manipulations,1,1,-0.1037,-0.4506,0.2432,0.558,0.2194,3,0.9744,4.7308,2,0.0939,-,-
+,,overall: conditioned in gh,NA,mining,NA,across all manipulations,2,1,0.415,0.0267,0.8034,0.0362,0.2194,3,0.9744,4.7308,2,0.0939,-,-
+,,,,,,,,,,,,,,,,,,,,
+,PSF x DISTURBANCE,overall,NA,NA,across all manipulations,NA,5,2,0.0988,-0.2185,0.1687,0.8009,30.897,13,0.0035,-,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,NA,NA,fire,NA,2,1,0.1467,-0.4195,0.7129,0.6116,29.9329,12,0.0029,0.4539,2,0.797,-,-
+,,by treatment manipulations,NA,NA,tornado,NA,3,1,-0.0474,-0.2571,0.1623,0.658,29.9329,12,0.0029,0.4539,2,0.797,-,-
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+DIFFERENCE IN INTERACTIVE EFFECTS,PSF x COMPETITION ,by treatment manipulations,alone/together:inter/intra,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.5252,0.4686
+,,,,,,,,,,,,,,,,,,,,
+,,by treatment manipulations,across all manipulations,NA,NA,fungicide:live/sterile,-,-,-,-,-,-,-,-,-,-,-,-,0.5161,0.4725
+,,by treatment manipulations,across all manipulations,NA,NA,fungicide:away/home,-,-,-,-,-,-,-,-,-,-,-,-,2.002,0.1571
+,,by treatment manipulations,across all manipulations,NA,NA,live/sterile:away/home,-,-,-,-,-,-,-,-,-,-,-,-,1.0729,0.3003
+,,,,,,,-,-,,,,,,,,,,,,
+,,by treatment manipulations,alone/together x untreated/fungicide : alone/together x live/sterile,NA,NA,alone/together x untreated/fungicide : alone/together x live/sterile,-,-,-,-,-,-,-,-,-,-,-,-,2.1109,0.1463
+,,by treatment manipulations,alone/together x untreated/fungicide : alone/together x away/home,NA,NA,alone/together x untreated/fungicide : alone/together x away/home,-,-,-,-,-,-,-,-,-,-,-,-,0.4287,0.5126
+,,by treatment manipulations,alone/together x live/sterile : alone/together x away/home,NA,NA,alone/together x live/sterile : alone/together x away/home,-,-,-,-,-,-,-,-,-,-,-,-,1.0368,0.3086
+,,by treatment manipulations,inter/intra x untreated/fungicide : inter/intra x live/sterile,NA,NA,inter/intra x untreated/fungicide : inter/intra x live/sterile,-,-,-,-,-,-,-,-,-,-,-,-,0.1144,0.7352
+,,by treatment manipulations,inter/intra x untreated/fungicide : inter/intra x away/home,NA,NA,inter/intra x untreated/fungicide : inter/intra x away/home,-,-,-,-,-,-,-,-,-,-,-,-,0.4325,0.5108
+,,by treatment manipulations,inter/intra x live/sterile : inter/intra x away/home,NA,NA,inter/intra x live/sterile : inter/intra x away/home,-,-,-,-,-,-,-,-,-,-,-,-,3.6155,0.05724
+,,by treatment manipulations,alone/together x untreated/fungicide : inter/intra x untreated/fungicide,NA,NA,alone/together x untreated/fungicide : inter/intra x untreated/fungicide,-,-,-,-,-,-,-,-,-,-,-,-,0.323,0.5698
+,,by treatment manipulations,alone/together x untreated/fungicide : inter/intra x live/sterile,NA,NA,alone/together x untreated/fungicide : inter/intra x live/sterile,-,-,-,-,-,-,-,-,-,-,-,-,0.1434,0.7049
+,,by treatment manipulations,alone/together x untreated/fungicide : inter/intra x away/home,NA,NA,alone/together x untreated/fungicide : inter/intra x away/home,-,-,-,-,-,-,-,-,-,-,-,-,2.3926,0.1219
+,,by treatment manipulations,alone/together x live/sterile : inter/intra x untreated/fungicide,NA,NA,alone/together x live/sterile : inter/intra x untreated/fungicide,-,-,-,-,-,-,-,-,-,-,-,-,0.4033,0.5254
+,,by treatment manipulations,alone/together x live/sterile : inter/intra x live/sterile,NA,NA,alone/together x live/sterile : inter/intra x live/sterile,-,-,-,-,-,-,-,-,-,-,-,-,1.9701,0.1604
+,,by treatment manipulations,alone/together x live/sterile : inter/intra x away/home,NA,NA,alone/together x live/sterile : inter/intra x away/home,-,-,-,-,-,-,-,-,-,-,-,-,0.0094,0.9226
+,,by treatment manipulations,alone/together x away/home : inter/intra x untreated/fungicide,NA,NA,alone/together x away/home : inter/intra x untreated/fungicide,-,-,-,-,-,-,-,-,-,-,-,-,0.0043,0.9475
+,,by treatment manipulations,alone/together x away/home : inter/intra x live/sterile,NA,NA,alone/together x away/home : inter/intra x live/sterile,-,-,-,-,-,-,-,-,-,-,-,-,0.1507,0.6979
+,,by treatment manipulations,alone/together x away/home : inter/intra x away/home,NA,NA,alone/together x away/home : inter/intra x away/home,-,-,-,-,-,-,-,-,-,-,-,-,1.4354,0.2309
+,,,,,,,,,,,,,,,,,,,,
+,,field exp:gh exp,across all manipulations,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.9486,0.3301
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field: conditioned in gh,across all manipulations,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.0424,0.8369
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field: conditioned in gh,alone/together,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,1.7864,0.1814
+,,conditioned in field: conditioned in gh,inter/intra,NA,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.0015,0.9687
+,,,,,,,,,,,,,,,,,,,,
+,PSF x STRESS ,by treatment manipulations,NA,drought:fert,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,8.4995,0.003552
+,,by treatment manipulations,NA,drought:grazing/herbivory,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,2.6239,0.1053
+,,by treatment manipulations,NA,drought:shade,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,10.094,0.001488
+,,by treatment manipulations,NA,drought:mining,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.0722,0.7881
+,,by treatment manipulations,NA,drought:temperature,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,4.609,0.03181
+,,by treatment manipulations,NA,fertilization:grazing/herbivory,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.5243,0.469
+,,by treatment manipulations,NA,fertilization:shade,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,1.1948,0.2744
+,,by treatment manipulations,NA,fertilization:mining,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.5715,0.4496
+,,by treatment manipulations,NA,fertilization:temperature,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.1491,0.6994
+,,by treatment manipulations,NA,grazing/herbivory:shade,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,1.8319,0.1759
+,,by treatment manipulations,NA,grazing/herbivory:mining,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.2198,0.6392
+,,by treatment manipulations,NA,grazing/herbivory:temperature,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.6099,0.4348
+,,by treatment manipulations,NA,shade:mining,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,1.1093,0.2922
+,,by treatment manipulations,NA,shade:temperature,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.0706,0.7904
+,,by treatment manipulations,NA,mining:temperature,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.7393,0.3899
+,,,,,,,,,,,,,,,,,,,,
+,,field experiment:gh experiment,NA,grazing/herbivory,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,2.335,0.1265
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field: conditioned in gh,NA,across all manipulations,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.5159,0.4726
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field: conditioned in gh,NA,fertilization,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,< 0.001,0.987
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field: conditioned in gh,NA,shade,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,0.9495,0.3298
+,,,,,,,,,,,,,,,,,,,,
+,,conditioned in field: conditioned in gh,NA,mining,NA,across all manipulations,-,-,-,-,-,-,-,-,-,-,-,-,3.812,0.05089
+,,,,,,,,,,,,,,,,,,,,
+,PSF x DISTURBANCE ,by treatment manipulations,NA,NA,fire:tornado,NA,-,-,-,-,-,-,-,-,-,-,-,-,0.3968,0.5287
