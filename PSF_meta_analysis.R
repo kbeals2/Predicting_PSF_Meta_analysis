@@ -4,7 +4,7 @@ library(pacman)
 p_load("fBasics", "rcompanion", "plyr", "dplyr", "lme4", "car", "ggplot2", "metafor", "grid", "gridExtra", "cowplot")
 
 ### Load in master data 
-data <- read.csv("PSFxCSD_raw_data_for_r.csv")
+data <- read.csv("TableS1.csv")
 str(data)
 
 ### create separate datasets for competition, stress, & disturbance studies
